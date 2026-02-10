@@ -24,8 +24,8 @@ Create .env:
 PORT=5000  
 OFFICIAL_EMAIL=your_email  
 GEMINI_API_KEY=key  
-API_KEY=12345  
-
+API_KEY=supersecretkey  
+For post request add x-api-key : supersecretkey  in headers section
 npm start
 
 ## API
